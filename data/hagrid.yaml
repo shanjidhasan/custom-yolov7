@@ -1,0 +1,8 @@
+train: D:/Projects/MMH/yolov7/hagrid/train
+val: D:/Projects/MMH/yolov7/hagrid/validation
+test: D:/Projects/MMH/yolov7/hagrid/test
+ 
+# Classes
+nc: 19  # number of classes
+names: [ "call", "dislike", "fist", "four", "like", "mute", "ok", "one", "palm", "peace", "rock",
+ "stop", "stop_inverted", "three", "two_up", "two_up_inverted", "three2", "peace_inverted", "no_gesture" ]  # class names
